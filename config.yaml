@@ -1,6 +1,6 @@
 ---
 id: embedding_mruby_into_c_and_an_actual_example
-base_name: embedding_mruby_into_c_and_an_actual_example
+base_name: psvr
 tags:
 - mruby
 - c
